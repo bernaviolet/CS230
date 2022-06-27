@@ -12,6 +12,7 @@ The most helpful part of working through a design document while developing code
 # How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
 One of the user's needs was to have a web-based game that would be compatible with multiple operating platforms. Remembering that, I created a server that would work with multiple operating systems. I also created a server that would ensure only one instance of Draw It or Lose It could exist in memory at a time. 
 It is important to consider the user's needs when designing so that they can have the best experience while using the program. If a program is poorly designed, it will not only give the user a bad experience, but it will also affect the user's relationship with the client. I want both the user and client to have successful experiences and positive effects from the program I create for them. 
- How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
+
+# How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
 In designing the software, I considered the client design requirements to ensure that their desires would be met in the program I created. I also considered the security risks with a server program and used best practices to protect the user and client from security breaches. 
 
